@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pypdf
+lancedb
+pandas
+pyarrow
+openai
+google-genai
+python-dotenv
+pydantic
+pylance

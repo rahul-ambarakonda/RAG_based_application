@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+# Local Vector DB
+.lancedb_data/
+*.pdf
+PDFs/*.pdf
+
+# Node dependencies and builds
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Local configuration and API keys
+.env
+.env*.local
+.env.local
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
